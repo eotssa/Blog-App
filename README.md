@@ -1,6 +1,4 @@
-# Blog-App
-
-This project is a full-stack web application for a blogging platform. It enables users to create, update, and delete blog posts, and manage user authentication.
+# Digital Hub
 
 ## Technologies Used
 
